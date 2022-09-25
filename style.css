@@ -1,0 +1,103 @@
+body{
+    background-color: rgb(243, 243, 243);
+    display: flex;
+    flex-direction: column;justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+}
+
+.header{
+    background-color: firebrick;
+    width: 100%;
+    display: flex;
+    height: 10%;
+    justify-content: center;
+    align-items: center;
+}
+
+#menu{
+    background-color: rgb(18, 182, 26);
+    width: 100%;
+}
+.main{
+    background-color: bisque;
+    width: 100%;
+}
+
+.karusel{
+    background-color: rgb(47, 0, 255);
+    width: 100%;
+
+}
+
+.footer{
+    background-color: rgb(214, 97, 18);
+    width: 100%;
+}
+
+.menu{
+    background-color: rgb(199, 241, 12);
+    display: flex;
+    width: 100%;
+
+}
+.content{
+    background-color: aquamarine;
+    flex: 60%;
+
+}
+
+.sitebar{
+    background-color: chocolate;
+    flex: 40%;
+
+}
+
+.header{
+    background-color: rgb(241, 10, 10);
+    width: 100%;
+
+}
+
+.footer{
+    background-color: rgb(214, 97, 18);
+    width: 100%;
+}
+.header img{
+    height: 50%;
+    width: auto;
+    border-radius: 80px 80px 80pc 80pc;
+    border: 24px solid #d0e702;
+    box-shadow: 11px 12px 5px 0px rgba(0,0,0,0.75);
+.menu ul, li{
+    margin: 0;
+    padding: 0;
+
+.menu ul{
+list-style: none;
+width: 100%;
+
+}
+
+.menu li{
+float: left;
+width: auto;
+}
+
+.menu a{
+    color: brown;
+background-color: chocolate;
+border: #d0e702;
+padding: 10px 25px;
+text-align: center;
+text-decoration: none;
+font: bold 13px sans-serif ;
+}
+.menu lo: :hover a{
+    background-color: chocolate;
+color: #000000;
+border : 1xp solid #000000 ;
+
+}
